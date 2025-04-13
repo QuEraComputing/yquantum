@@ -15,4 +15,4 @@ source .venv/bin/activate
 uv pip install -e ".[dev]"
 ```
 
-See notebooks for the tutorials.
+See notebooks for the tutorials and bug reports.
